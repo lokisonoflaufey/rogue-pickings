@@ -150,3 +150,29 @@ footer span {
 	color: #77a466;
 	font-size: 14px;
 }
+
+
+@media screen (min-width: 844px;) {
+	body {
+		font-family: 'Montserrat', helvetica, arial, sans-serif;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}	
+	.container {
+
+	}
+	header {
+
+	}
+	.top-section {
+
+	}
+	.bottom-section {
+
+	}
+	footer {
+
+	}
+
+}
